@@ -15,6 +15,7 @@ docker_run: docker_build
 		-d hello-world-printer
 
 USERNAME=1sumii
+DOCKER_PASSWORD=Bzinco111904$
 
 TAG=$(USERNAME)/hello-world-printer-k4
    
